@@ -6,4 +6,6 @@ add newline for test
 additional details
 nnn
 
+
+i made responsive too!
 .....
