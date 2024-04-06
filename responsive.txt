@@ -1,1 +1,1 @@
-responsive 000
+responsive 100
